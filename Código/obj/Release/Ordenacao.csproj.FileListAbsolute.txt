@@ -1,0 +1,17 @@
+E:\Ordenacao\bin\Release\Ordenacao.exe.config
+E:\Ordenacao\bin\Release\Ordenacao.exe
+E:\Ordenacao\bin\Release\Ordenacao.pdb
+E:\Ordenacao\obj\Release\Ordenacao.frmMain.resources
+E:\Ordenacao\obj\Release\Ordenacao.Properties.Resources.resources
+E:\Ordenacao\obj\Release\Ordenacao.csproj.GenerateResource.Cache
+E:\Ordenacao\obj\Release\Ordenacao.exe
+E:\Ordenacao\obj\Release\Ordenacao.pdb
+C:\Users\mpguchii\Desktop\Ordenacao\bin\Release\Ordenacao.exe.config
+C:\Users\mpguchii\Desktop\Ordenacao\obj\Release\Ordenacao.exe
+C:\Users\mpguchii\Desktop\Ordenacao\obj\Release\Ordenacao.pdb
+C:\Users\mpguchii\Desktop\Ordenacao\bin\Release\Ordenacao.exe
+C:\Users\mpguchii\Desktop\Ordenacao\bin\Release\Ordenacao.pdb
+C:\Users\mpguchii\Desktop\Ordenacao\obj\Release\Ordenacao.csprojResolveAssemblyReference.cache
+C:\Users\mpguchii\Desktop\Ordenacao\obj\Release\Ordenacao.frmMain.resources
+C:\Users\mpguchii\Desktop\Ordenacao\obj\Release\Ordenacao.Properties.Resources.resources
+C:\Users\mpguchii\Desktop\Ordenacao\obj\Release\Ordenacao.csproj.GenerateResource.Cache
